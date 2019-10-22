@@ -1,0 +1,43 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    background-color: darkred;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+
+}
+
+h2 {
+    margin: 6px;
+    font-family: cursive;
+    text-decoration: underline;
+}
+
+article {
+    margin: 10px;
+    padding: 10px;
+}
+
+a {
+    margin: 20px;
+    color: black;
+    font-family: cursive;
+    text-decoration: none;
+
+
+}
+
+.static {
+    width: 10px;
+    height: 10px;
+    border-radius: 7px;
+    background-color: rgba(29, 173, 184, 0.5);
+}
+
+a:visited {
+    color: blanchedalmond;
+}
+
+footer{
+    align-self: auto;
+}
