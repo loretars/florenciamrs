@@ -1,0 +1,9 @@
+li {
+    list-style-type: georgian;
+}
+
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: midnightblue;
+    font-style: bold;
+}
